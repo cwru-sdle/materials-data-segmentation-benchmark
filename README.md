@@ -1,1 +1,0 @@
-# materials-data-segmentation-benchmark
